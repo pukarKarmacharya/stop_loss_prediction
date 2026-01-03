@@ -1,0 +1,21 @@
+# Misc
+.DS_Store
+**/__pycache__/
+.ruff_cache/
+
+# IDE Related
+.idea/*
+.vscode/*
+.fleet/
+
+# Environment Related
+.venv/
+venv/
+
+# Media
+media/
+pyrightconfig.json
+.ropeproject
+.env
+*.pdf
+
