@@ -19,3 +19,4 @@ pyrightconfig.json
 .env
 *.pdf
 
+data/
