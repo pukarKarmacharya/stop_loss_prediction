@@ -55,7 +55,7 @@ Install dependencies using:
 
 ```bash
 uv sync
-
+```
 ---
 
 ## Reference Paper
