@@ -35,7 +35,7 @@ These outcomes demonstrate that careful target formulation has a greater impact 
 
 ## Repository Structure (Key Files)
 
-- `py_model/stoploss_pytorch_artifacts/`
+- `model/`
   - `stoploss_model.pt`  
     Saved PyTorch model weights (`state_dict`).
   - `scaler.npz`  
